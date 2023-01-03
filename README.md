@@ -1,4 +1,20 @@
+### UNIVERSIDAD DE LAS FUERZAS ARMADAS
 
+Nombre:David Lagla
+
+NRC:10063
+
+Ing:Darwin Omar Alulema
+
+Objetivo general
+
+Relacionar todos los metodos aprendidos anteriormente con la resolucion de circuitos electricos mas complejos,ademas de entender otras propiedades de los circuitos electricos,como el magnetismo.
+
+Objetivos especificos
+
+Entender las propiedas del elctromagnetismo y el magnetismo
+
+Entender lo que es el elctromagnetismo el magnetismo y cual es el principio fisico que lo permite.
 
 #### Marco Teorico
 
@@ -188,3 +204,13 @@ el voltaje máximo.
 
 ![image](https://user-images.githubusercontent.com/116814386/210037148-42714c53-ef06-4429-8302-ee4981ee18cb.png)
 
+### Conclusiones 
+
+Se comprensio como se puede relacionar todos los teoremas y metados aprendidos anteriormente para analizar circuitos mas complejos de una manera mas simple ,ademas de que se comprendio de mejor manera el magnetismo y el electromagnetismo
+
+### Video
+
+
+### Bibliografia
+
+http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
