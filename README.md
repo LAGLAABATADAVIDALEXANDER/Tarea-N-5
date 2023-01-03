@@ -94,6 +94,15 @@ Método de la corriente en lazod
 
 ![image](https://user-images.githubusercontent.com/116814386/210301735-4be3f2f3-47e7-45a7-ba69-9d4e2b3a6f85.png)
 
+Método de voltaje en nodos
+
+27. ¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real de la corriente
+
+![image](https://user-images.githubusercontent.com/116814386/210302139-1aab0777-14f5-4e1a-9aef-3a5229105ccf.png)
+
+![image](https://user-images.githubusercontent.com/116814386/210302240-8e0ce821-3c02-496e-a6a1-3c757b313daf.png)
+
+
 Capitulo 10
 
 El campo magnético
