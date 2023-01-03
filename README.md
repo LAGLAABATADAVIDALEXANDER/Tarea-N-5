@@ -16,6 +16,84 @@
 
 #### Ejercicios
 
+Capitulo 9 
+
+Ecuaciones simultáneas en el análisis de circuitos
+
+1. Con el método de sustitución, resuelva el siguiente conjunto de ecuaciones para IR1 e IR2.
+
+![image](https://user-images.githubusercontent.com/116814386/210297445-bf820e8a-513e-4b1d-895b-ea23adb02302.png)
+
+3. Utilizando determinantes, resuelva el siguiente conjunto de ecuaciones para ambas corrientes:
+
+![image](https://user-images.githubusercontent.com/116814386/210297551-054926ce-c892-4e8b-ab92-9ecc0f3bf36a.png)
+
+5. Evalúe cada uno de los determinantes:
+
+![image](https://user-images.githubusercontent.com/116814386/210297759-7a879fee-2f2b-49e6-b6ed-27b5f9c589b1.png)
+
+7. Resuelva para I1 , I2 , I3 en el siguiente conjunto de ecuaciones con determinantes:
+
+![image](https://user-images.githubusercontent.com/116814386/210297863-40c78856-8134-40d1-921d-0334f6de4d26.png)
+
+![image](https://user-images.githubusercontent.com/116814386/210298178-3db4cebf-8117-4e95-941d-433f41584ae4.png)
+
+9. Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora.
+
+![image](https://user-images.githubusercontent.com/116814386/210298469-73c338a7-1c69-4bb3-b496-ba92b84039ca.png)
+
+![image](https://user-images.githubusercontent.com/116814386/210298496-b0210a85-05e3-44c2-bd92-c56886915d61.png)
+
+Método de la corriente en ramas
+
+11. Escriba la ecuación de la corriente de Kirchhoff para la asignación de corriente mostrada en el nodo A en la figura 9-26.
+
+![image](https://user-images.githubusercontent.com/116814386/210298779-52106967-f19a-46c1-8f31-5870fb0e9993.png)
+
+![image](https://user-images.githubusercontent.com/116814386/210298835-bd0dad99-b6b6-440a-b4c4-ecd9ad95ad84.png)
+
+13. Determine la caída de voltaje entre los extremos de cada resistor mostrado en la figura 9-26 e indique la polaridad real.
+
+![image](https://user-images.githubusercontent.com/116814386/210298902-03a2e412-b1f3-43c2-955a-159753b4a4e2.png)
+
+![image](https://user-images.githubusercontent.com/116814386/210300033-1441d0c7-1e19-406a-b7c6-6d9ee30351a6.png)
+
+Las direcciones de las corrientes son las planteadas por el ejercicio
+
+15. En la figura 9-27, determine el voltaje entre las terminales de la fuente de corriente (puntos A y B).
+
+![image](https://user-images.githubusercontent.com/116814386/210298932-d92c254c-93fc-4654-80f7-f5573633c1b6.png)
+
+![image](https://user-images.githubusercontent.com/116814386/210300081-4802edfd-c953-4f51-b61b-f780fa8f12ba.png)
+
+17. Con el método de la corriente en lazos, determine las corrientes en los lazos que aparecen en la figura 9-28.
+
+![image](https://user-images.githubusercontent.com/116814386/210300129-af1edce0-67e2-46ff-9a63-5ed241ae0dbd.png)
+
+19. Determine los voltajes y sus polaridades apropiadas en cada uno de los resistores mostrados en la figura 9-28.
+
+![image](https://user-images.githubusercontent.com/116814386/210300568-eac58725-7b7b-4977-b2a9-d099224598be.png)
+
+![image](https://user-images.githubusercontent.com/116814386/210300701-c9dad5e5-4f3c-4ebd-b196-57fbbce38621.png)
+
+Método de la corriente en lazod
+
+21. Resuelva para las corrientes de lazo en la figura 9-29 con su calculadora.
+
+![image](https://user-images.githubusercontent.com/116814386/210300793-602c65fb-04de-4452-92bf-95708a5c54cc.png)
+
+23. Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30.
+
+![image](https://user-images.githubusercontent.com/116814386/210301428-58fd8a69-1c44-449f-b232-afd349bc9cc5.png)
+
+![image](https://user-images.githubusercontent.com/116814386/210301521-d167dda5-b36b-45c6-b9d3-a26c31337bf7.png)
+
+25. Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31.
+
+![image](https://user-images.githubusercontent.com/116814386/210301609-4babb206-0172-4f53-a3a3-1b7632765619.png)
+
+![image](https://user-images.githubusercontent.com/116814386/210301735-4be3f2f3-47e7-45a7-ba69-9d4e2b3a6f85.png)
+
 Capitulo 10
 
 El campo magnético
@@ -68,6 +146,9 @@ Se consigue cambiando la corriente
 17. Determine a partir de las curvas de histéresis mostradas en la figura 10-45 qué material tiene más retentivida
 
 ![image](https://user-images.githubusercontent.com/116814386/210035740-c687268a-680d-4bcf-b264-3f380c0de8dd.png)
+
+![image](https://user-images.githubusercontent.com/116814386/210300498-10b4963c-07ca-4dcd-b5d8-b32dfd33faf1.png)
+
 
 Basandonos en la curva la que mas retentividad representa es la cyva del material A
 
