@@ -210,6 +210,7 @@ Se comprensio como se puede relacionar todos los teoremas y metados aprendidos a
 
 ### Video
 
+https://youtu.be/ItJUmqqo65E
 
 ### Bibliografia
 
